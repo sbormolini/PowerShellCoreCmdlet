@@ -28,6 +28,11 @@ namespace TestBos.PowerShell.Helper
 
         static public OSInformation ParseFromFile()
         {
+            /*
+            process with uname
+            https://wiki.ubuntuusers.de/uname/
+            */
+
             return new OSInformation(
                 "Microsaft",
                 "TestOS",
