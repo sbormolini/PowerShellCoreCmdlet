@@ -1,4 +1,4 @@
-# PowerShellCoreCmdlet
+# GetHostInfo PowerShell Core
 PowerShell Core Cmdlet Example
 
 - Core Cmdlet sutiable  for Windows and Linux
